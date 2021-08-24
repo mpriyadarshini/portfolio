@@ -41,7 +41,7 @@ body{
 
 .nav-link{
     display:inline;
-    padding: 2rem 1.6rem;
+    padding: 2rem 0.5rem;
     font-weight: bold;
 
 }
@@ -62,13 +62,15 @@ body{
 
 .logo{
     padding: 2rem;
+    padding-top: 5rem;
 }
 
 .logo-img{
     display: block;
     margin:auto;
-    width:400px;
+    width:550px;
     border-radius: 50%;
+    max-width:80%
     
 }
 
